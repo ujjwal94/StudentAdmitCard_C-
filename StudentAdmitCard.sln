@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentAdmitCard", "StudentAdmitCard\StudentAdmitCard.csproj", "{FF204258-F4BB-4EFB-8000-D0A25ED13C85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF204258-F4BB-4EFB-8000-D0A25ED13C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF204258-F4BB-4EFB-8000-D0A25ED13C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF204258-F4BB-4EFB-8000-D0A25ED13C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF204258-F4BB-4EFB-8000-D0A25ED13C85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C55C00C-C77F-48AA-8538-6483ED28C419}
+	EndGlobalSection
+EndGlobal

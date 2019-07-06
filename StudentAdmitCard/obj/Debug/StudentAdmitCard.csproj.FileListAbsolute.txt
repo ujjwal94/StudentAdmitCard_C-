@@ -1,0 +1,81 @@
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\StudentAdmitCard.exe.config
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\StudentAdmitCard.exe
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\StudentAdmitCard.pdb
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\Google.Protobuf.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.SqlServer.Dac.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\MySql.Data.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\SSDTDeployer.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.Build.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\System.Collections.Immutable.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\System.IO.Compression.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\Google.Protobuf.xml
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\MySql.Data.xml
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\SSDTDeployer.pdb
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\obj\Debug\StudentAdmitCard.exe.config
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\obj\Debug\StudentAdmitCard.Form1.resources
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\obj\Debug\StudentAdmitCard.Properties.Resources.resources
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\obj\Debug\StudentAdmitCard.csproj.GenerateResource.cache
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\obj\Debug\StudentAdmitCard.csproj.CoreCompileInputs.cache
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\obj\Debug\StudentAdmitCard.csproj.CopyComplete
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\obj\Debug\StudentAdmitCard.exe
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\obj\Debug\StudentAdmitCard.pdb
+C:\Users\g516283\source\repos\StudentAdmitCard\StudentAdmitCard\obj\Debug\StudentAdmitCard.csprojAssemblyReference.cache
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\bin\Debug\StudentAdmitCard.exe.config
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\bin\Debug\StudentAdmitCard.exe
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\bin\Debug\StudentAdmitCard.pdb
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\bin\Debug\BouncyCastle.Crypto.dll
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\bin\Debug\Google.Protobuf.dll
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.SqlServer.Dac.dll
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\bin\Debug\MySql.Data.dll
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\bin\Debug\SSDTDeployer.dll
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\bin\Debug\Google.Protobuf.xml
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\bin\Debug\MySql.Data.xml
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\bin\Debug\SSDTDeployer.pdb
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\obj\Debug\StudentAdmitCard.csprojAssemblyReference.cache
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\obj\Debug\StudentAdmitCard.Form1.resources
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\obj\Debug\StudentAdmitCard.Properties.Resources.resources
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\obj\Debug\StudentAdmitCard.csproj.GenerateResource.cache
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\obj\Debug\StudentAdmitCard.csproj.CoreCompileInputs.cache
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\obj\Debug\StudentAdmitCard.csproj.CopyComplete
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\obj\Debug\StudentAdmitCard.exe
+D:\My Projects\2.StudentAdmitCard\StudentAdmitCard\obj\Debug\StudentAdmitCard.pdb
